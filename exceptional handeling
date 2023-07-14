@@ -1,0 +1,5 @@
+3exception are event that occur durning the execution of a program that disrupt the normal flow o fintructions.
+they can occur due to various reason such as invalid input,file not found ,network,error execution
+pyhton providesa robustexception handling mechanism to handle these exceptional situation.
+they try except block is used to catch and handele exceptions.
+the code that may raise an exception is placed

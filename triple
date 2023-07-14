@@ -1,0 +1,15 @@
+s="theoryofstructure"
+s1="foundation"
+s3=45
+print(len(s),len(s1))
+print(type(str(s3)))
+print(s.upper())
+print(s.lower())
+#output['found','ion']
+s1=s1.split("t")
+print(s1)
+#string.join(list)
+print('d'.join(s1))
+#string.replace(oldvalue,newvalue,count)
+s2="i like little things"
+print(s2.replace('happy','peace'))
